@@ -1,0 +1,95 @@
+body{
+	background-color: black; 
+	
+	
+}
+
+
+img{
+	display: block;
+    margin: 0 auto;
+	height: 501px;
+	width: 400px; 
+	padding-top: 10px; 
+}
+
+#LinkedIn{
+	width: 25px; 
+	height: 25px; 
+}
+
+h1{
+	color: #FF0000;
+	text-align: center; 
+
+	border-bottom-style: solid; 
+	border-top-style: solid; 
+
+	border-bottom-color: #FFFFFF;
+	border-top-color: #FFFFFF;
+
+	
+}
+
+#link_header{
+	text-align: center; 
+	
+	border-top: solid;
+	border-bottom: solid;
+	border-top-color: white; 
+	border-bottom-color: white; 
+	
+}
+
+#ProjectList{
+	color: white; 
+}
+#ProjectItem{
+	color: white; 
+
+}
+li.ProjectItem{
+	color: red; 
+	font-size: 20px;
+}
+a.ProjItem:visited{
+	color:white; 
+}
+
+a.HeaderLink{
+	color: white; 
+	
+}
+
+a.HeaderLink:visited{
+	color: red;
+}
+
+a.HeaderLink:hover{
+	color: white; 
+}
+
+div.description{
+	color: white; 
+	text-align: center; 
+	padding-top: 10px; 
+}
+
+
+#Footer{
+  
+
+  color: red;  
+  position: fixed;
+  right: 0;
+  bottom: 0;
+  left: 0;
+  padding: 1em;
+  border-bottom: solid; 
+  border-bottom-color: white; 
+  border-top: solid; 
+  border-top-color: white; 
+  text-align: center;
+  background-attachment: scroll; 
+}
+

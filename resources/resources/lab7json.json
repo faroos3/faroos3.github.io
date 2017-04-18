@@ -1,0 +1,34 @@
+{
+    "menuItems": [
+        {
+            "menuName": "Lab 2",
+            "menuDesc": "Resume",
+            "menuURL": "SamadFarooqui-resume.html"
+        },
+        {
+            "menuName": "Lab 3",
+            "menuDesc": "Website",
+            "menuURL": "../../index.html"
+        }, 
+		{
+			"menuName": "RSS Feed", 
+			"menuDesc": "RSSLab4",
+			"menuURL": "rss_feed.xml"
+		}
+		{
+			"menuName": "Atom Feed"
+			"menuDesc": "AtomLab4"
+			"menuURL": "atom_feed.xml"
+		}
+		{
+			"menuName": "Lab 5"
+			"menuDesc": "FormLab"
+			"menuURL": "lab5.html"
+		}
+		{
+			"menuName": "Lab 6"
+			"menuDesc": "jQueryTest"
+			"menuURL": "lab6.html"
+		}
+    ]
+}

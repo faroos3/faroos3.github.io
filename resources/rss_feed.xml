@@ -1,0 +1,74 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<rss version="2.0">
+<channel>
+	<title>Samad's RSS Feed</title>
+	<description>Just a few articles I find interesting that you might as well!</description>
+	<link>https://afsws.rpi.edu/AFS/home/24/faroos3/public_html/iit/projects.html</link>
+	<lastBuildDate>Mon, 3 Oct 2016 00:15:00 +0000 </lastBuildDate>
+	<pubDate>Tue, 12 Oct 2010 00:01:00 +0000 </pubDate>
+	
+	<item>
+		<title>Who needs Facebook friends when there's Kirobo? - CNET</title>
+		<link>
+			https://www.cnet.com/news/who-needs-facebook-friends-when-theres-kirobo-cnet-update/#ftag=CAD590a51e
+		</link>
+		<description>
+			Facebook continues its quest to become a community classifieds section with the
+			mobile Marketplace. But nothing you'll find for sale will ever be as cool as 
+			Toyota's Kirobo Mini.
+		</description>
+		<pubDate>Mon, 03 Oct 2016 19:56:27 +0000</pubDate>
+		<guid isPermaLink="false">
+			https://www.cnet.com/news/who-needs-facebook-friends-when-theres-kirobo-cnet-update/#ftag=CAD590a51e
+		</guid>
+	</item>
+	
+	<item> 
+		<title>NASA Awards Contract for Information Technology Support Services</title>
+		<link>http://www.nasa.gov/press-release/nasa-awards-contract-for-information-technology-support-services</link>
+		<description>
+			NASA has awarded its Goddard Information Technology Integration Support Services (GITISS) contract to Business Integra, Inc. 
+			of Bethesda, Maryland.
+		</description>
+		<pubDate>Thu, 29 Sep 2016 16:06:30 -0400</pubDate>
+		<guid isPermaLink="false">http://www.nasa.gov/press-release/nasa-awards-contract-for-information-technology-support-services</guid>
+	</item>
+	
+	<item> 
+		<title>NASA, China to Collaborate on Air Traffic Management Research</title>
+		<link>
+			http://www.nasa.gov/press-release/nasa-china-to-collaborate-on-air-traffic-management-research
+		</link>
+		<description>
+			NASA and the Chinese Aeronautical Establishment (CAE) have signed 
+			a memorandum of understanding to cooperate on aeronautics research that will advance 
+			air transportation automation for U.S. and Chinese aviation operations in China.
+		</description>
+		<pubDate>Wed, 28 Sep 2016 16:03:00 -0400</pubDate>
+		<guid isPermaLink="false">http://www.nasa.gov/press-release/nasa-china-to-collaborate-on-air-traffic-management-research</guid>
+	</item>
+	
+ 
+	<item>
+		<title>Primatologist Frans de Waal weighs in on Harambe</title>
+		<link>http://www.radiolab.org/story/frans-de-waal-weighs-harambe/</link>
+		<description>&lt;p&gt;Where does our sense of right and wrong come from?</description>
+		<pubDate>Wed, 08 Jun 2016 10:47:00 -0400</pubDate>
+		<guid>http://www.radiolab.org/story/frans-de-waal-weighs-harambe/</guid>
+
+	</item>
+	
+	
+	<item>
+		<title>Everything Dies, Right? But Does Everything Have To Die? Here's A Surprise</title>
+		<link>http://www.radiolab.org/story/everything-dies-right-does-everything-have-die-heres-surprise_kw/</link>
+		<description>
+			A puzzlement.&lt;/p&gt;  &lt;p&gt;Why, I wonder, are both these things true? 
+		</description>
+		<pubDate>Fri, 26 Sep 2014 11:16:00 -0400</pubDate>
+		<guid>http://www.radiolab.org/story/everything-dies-right-does-everything-have-die-heres-surprise_kw/</guid>
+	</item>
+ 
+</channel>
+</rss>
+

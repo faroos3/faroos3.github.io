@@ -1,0 +1,131 @@
+@import url('https://fonts.googleapis.com/css?family=Abril+Fatface|Josefin+Slab|Lobster|Pacifico');
+
+body{
+	background: url("photosForIntroPhotoShop/improved_lake.jpg") top center fixed; 
+	-webkit-background-size: cover; 
+	-moz-background-size: cover; 
+	-o-background-size: cover; 
+	background-size: cover; 
+	background-repeat: no-repeat; 
+	position: absolute; 
+}
+h1{
+	font-family: 'Abril Fatface', cursive;
+	font-size: 70px;
+	text-align: center; 
+}
+h2{
+	font-family: 'Lobster', cursive; 
+	text-align: center; 
+	font-size: 40px; 
+}
+#quickSummary{
+	text-align: center; 
+}
+h3{
+	font-size: 30px; 
+	color: blue; 
+}
+/* MAKE A TRANSLUCENT BOX BEHIND ALL THE TEXT.  */
+p{
+	font-family: 'Josefin Slab', serif;
+	color: black; 
+	font-size: 110%;
+	font-style: oblique;
+}
+a{
+	color: orange; 
+}
+a:hover{
+	background-color: black; 
+	color: orange; 
+}
+#preamble{
+	margin-top: 268px; 
+	border: 1px solid black; 
+	background-color: #ffffff; 
+	opacity: 0.7;
+	color: black; 
+	border-bottom: clear; 
+}
+#preamble p{
+	font-weight: bold; 
+}
+#supportingText{
+	border: 1px solid black; 
+	background-color: #ffffff; 
+	opacity: 0.7;
+	color: black; 
+	border-top: clear; 
+}
+#supportingText p{
+	font-weight: bold; 
+}
+#linkList{
+	position: absolute; 
+	margin-left: 600px; 
+	position: absolute; 
+	top: 0; 
+	right: 0;
+	border: 1px solid black; 
+	background-color: #ffffff; 
+	opacity: 0.7;
+	color: black; 
+}
+.#linkList .wrapper { 
+	font: 10px verdana, sans-serif; 
+	background: transparent url(http://csszengarden.com/001/paper-bg.jpg) top left repeat-y; 
+	padding: 10px; 
+	margin-top: 150px; 
+	width: 130px; 
+}
+.#linkList h3.select { 
+	background: transparent url(http://csszengarden.com/001/h3.gif) no-repeat top left; 
+	margin: 10px 0 5px 0; 
+	width: 97px; 
+	height: 16px; 
+
+	text-indent: 100%;
+	white-space: nowrap;
+	overflow: hidden;
+}
+.#linkList h3.archives { 
+	background: transparent url(http://csszengarden.com/001/h5.gif) no-repeat top left; 
+	margin: 25px 0 5px 0; 
+	width:57px; 
+	height: 14px; 
+
+	text-indent: 100%;
+	white-space: nowrap;
+	overflow: hidden;
+}
+.#linkList h3.resources { 
+	background: transparent url(http://csszengarden.com/001/h6.gif) no-repeat top left; 
+	margin: 25px 0 5px 0; 
+	width:63px; 
+	height: 10px; 
+
+	text-indent: 100%;
+	white-space: nowrap;
+	overflow: hidden;
+}
+
+
+.#linkedList ul {
+	margin: 0;
+	padding: 0;
+}
+.#linkList li {
+	line-height: 1.3em; 
+	background: transparent url(http://csszengarden.com/001/cr1.gif) no-repeat top center; 
+	display: block; 
+	padding-top: 5px; 
+	margin-bottom: 5px;
+	list-style-type: none;
+}
+.#linkList li a:link {
+	color: #988F5E;
+}
+.#linkList li a:visited {
+	color: #B3AE94;
+}

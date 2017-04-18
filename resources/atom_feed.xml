@@ -1,0 +1,83 @@
+<?xml version="1.0" encoding="utf-8"?>
+ 
+<feed xmlns="http://www.w3.org/2005/Atom">
+ 
+	<title>Samad's Atom Feed!</title>
+	<subtitle>Just some articles Samad finds interesting, and he hopes you do too!</subtitle>
+	<link href="https://afsws.rpi.edu/AFS/home/24/faroos3/public_html/iit/resources/atom_feed.xml/" rel="self" />
+	<link href="https://afsws.rpi.edu/AFS/home/24/faroos3/public_html/iit/" />
+	<id>urn:uuid:60a76c80-d399-11d9-b91C-0003939e0af6</id>
+	<updated>2016-10-03T15:25:02Z</updated>
+	<author>
+		<name>Samad Farooqui</name>
+		<email>faroos3@rpi.edu</email>
+	</author>
+	
+	<entry>
+		<title>Who needs Facebook friends when there's Kirobo? - CNET</title>
+		<link href = "https://www.cnet.com/news/who-needs-facebook-friends-when-theres-kirobo-cnet-update/#ftag=CAD590a51e"
+			rel = "alternate"></link>
+		<updated>2016-10-03T19:56:27-00:00</updated>
+		<id>https://www.cnet.com/news/who-needs-facebook-friends-when-theres-kirobo-cnet-update/#ftag=CAD590a51e</id>
+		<summary>
+			Facebook continues its quest to become a community classifieds section with the
+			mobile Marketplace. But nothing you'll find for sale will ever be as cool as 
+			Toyota's Kirobo Mini.
+		</summary>
+	</entry>
+	
+	<entry> 
+		<title>NASA Awards Contract for Information Technology Support Services</title>
+		<link href = "http://www.nasa.gov/press-release/nasa-awards-contract-for-information-technology-support-services" 
+		rel = "alternate"></link>
+		<updated>2016-09-29T16:06:30-04:00</updated>
+		<id>http://www.nasa.gov/press-release/nasa-awards-contract-for-information-technology-support-services</id>
+		<summary>
+			NASA has awarded its Goddard Information Technology Integration 
+			Support Services (GITISS) contract to Business Integra, Inc. of Bethesda, Maryland.
+		</summary>
+	</entry>
+	
+		
+	<entry> 
+		<title>NASA, China to Collaborate on Air Traffic Management Research</title>
+		<link href = "http://www.nasa.gov/press-release/nasa-china-to-collaborate-on-air-traffic-management-research"
+		rel = "alternate"></link>
+		<updated>2016-09-28T16:03:00-04:00</updated>
+		<id>http://www.nasa.gov/press-release/nasa-china-to-collaborate-on-air-traffic-management-research</id>
+		<summary>
+			NASA and the Chinese Aeronautical Establishment (CAE) have signed 
+			a memorandum of understanding to cooperate on aeronautics research that will advance 
+			air transportation automation for U.S. and Chinese aviation operations in China.
+		</summary>
+	</entry>
+	
+	<entry>
+		<title>Primatologist Frans de Waal weighs in on Harambe</title>
+		<link href="http://www.radiolab.org/story/frans-de-waal-weighs-harambe/" rel="alternate"></link>
+		<updated>2016-06-08T10:47:00-04:00</updated>
+		<id>http://www.radiolab.org/story/frans-de-waal-weighs-harambe/</id>
+		<summary type="html">&lt;p&gt;Where does our sense of right and wrong come from?</summary>
+	</entry>
+	
+	<entry>
+		<title>Everything Dies, Right? But Does Everything Have To Die? Here's A Surprise</title>
+		<link href="http://www.radiolab.org/story/everything-dies-right-does-everything-have-die-heres-surprise_kw/" 
+		rel="alternate"></link>
+		<updated>2014-09-26T11:16:45-04:00</updated>
+		<id>http://www.radiolab.org/story/everything-dies-right-does-everything-have-die-heres-surprise_kw/</id>
+		<summary type="html">
+			&lt;p&gt;A puzzlement.&lt;/p&gt;&lt;p&gt;Why, I wonder, are both these 
+			things true? 
+		</summary>
+	</entry>
+	
+
+	
+	
+	
+ 
+</feed>
+
+
+
